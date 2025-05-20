@@ -1,4 +1,4 @@
-package org.example.pages.pageObjectModel.appvwo;
+package org.example.pages.pageObjectModel.appvwo.normal_POM;
 
 import org.example.Utils.WaitHelper;
 import org.openqa.selenium.By;

@@ -1,9 +1,9 @@
-package org.example.tests.POM;
-
+package org.example.tests.POM.vwo;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
+
 import org.example.pages.pageObjectModel.appvwo.DashBoardPage;
-import org.example.pages.pageObjectModel.appvwo.loginPage;
+import org.example.pages.pageObjectModel.appvwo.normal_POM.loginPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
